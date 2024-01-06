@@ -1,0 +1,29 @@
+IC
+000056787	retired
+000071052	Todd Poff
+000056784
+000032011
+000071049
+000032005
+000056781	Rafael 
+000071050	Oscar Fernandez
+000056789	arsenio gonzalez
+000032001	Maylin Mui
+000056870	lina Castellanos
+000019154	retired
+000032230	retired
+000032231
+000036223
+
+
+Inbound
+000032014	Idania
+000017501  and  000019335    Dorka no battery  retired
+000071053	Monica
+000056520	Lamaron Duncan
+000032240	Jovany Martinez
+000032002	Edric Salone
+
+
+
+
